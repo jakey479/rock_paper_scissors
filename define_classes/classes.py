@@ -139,4 +139,4 @@ Who would you like to play against? ''').lower()
             print(f'The winner is: Player 2\n')
         else:
             print('Tie game!\n')
-        print("Game over!")
+        print("Thanks for playing!")
